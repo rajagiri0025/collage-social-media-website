@@ -1,4 +1,5 @@
 College Social Media - React Authentication App
+https://6941e267a92bebdf5156bd83--willowy-hummingbird-bfe471.netlify.app/
 
 A modern React application with email OTP authentication for a college social media platform.
 
